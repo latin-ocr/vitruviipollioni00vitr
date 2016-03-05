@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitruviipollioni00vitr_0003.png"; bbox 0 0 2023 3162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1942 655 1978 780">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1948 655 1967 669">
+     <span class='ocr_line' id='line_1_1' title="bbox 1948 655 1967 669; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1948 655 1967 669; x_wconf 64' lang='grc' dir='ltr'><strong>,ι</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1943 671 1978 748">
+     <span class='ocr_line' id='line_1_2' title="bbox 1943 671 1971 686; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1943 671 1971 686; x_wconf 61' lang='lat' dir='ltr'><strong>&#39;vt</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1959 692 1976 706; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1959 692 1976 706; x_wconf 67' lang='lat'><strong>⁴.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1947 706 1978 727; baseline 0.065 -2"><span class='ocrx_word' id='word_1_4' title='bbox 1947 706 1955 725; x_wconf 55' lang='lat' dir='ltr'><strong>ff</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1967 717 1978 727; x_wconf 80' lang='grc'><strong>-.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1963 732 1975 748; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1963 732 1975 748; x_wconf 60' lang='lat'><strong>¹7</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1942 752 1950 759">
+     <span class='ocr_line' id='line_1_6' title="bbox 1942 752 1950 759; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1942 752 1950 759; x_wconf 63' lang='lat' dir='ltr'>n</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1948 773 1954 780">
+     <span class='ocr_line' id='line_1_7' title="bbox 1948 773 1954 780; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1948 773 1954 780; x_wconf 59' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2023 3162">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2023 3162">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 2023 3162; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2023 3162; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
